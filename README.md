@@ -10,5 +10,5 @@ Shell command to run --> ./"Reference name" <br>
 
 </br>
 
-[google](https://youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO&si=eYQrFfZL7nWq1304)
+[OS Theory Rec.](https://youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO&si=eYQrFfZL7nWq1304)
 
