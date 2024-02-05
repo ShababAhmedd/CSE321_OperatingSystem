@@ -9,4 +9,4 @@ Shell command to run --> ./"Reference name" <br>
 
 
 </br>
-[Operating Systems Bangla Tutorial (Full Course)](https://youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO&si=NWD8IenMM_XEVRLX)
+[Operating Systems Full Course](https://youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO&si=NWD8IenMM_XEVRLX)
