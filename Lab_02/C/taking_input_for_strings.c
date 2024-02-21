@@ -2,7 +2,7 @@
 
 int main(){
 	
-	char string[30];
+	char string[30]; // size of the string we will be taking
 	fgets(string, sizeof(string), stdin);
 	
 	printf("The given string is %s", string);
