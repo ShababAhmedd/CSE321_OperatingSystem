@@ -10,4 +10,3 @@ int main(){
 
 
 
-// \0 is null character which indicates the ending of the string.
