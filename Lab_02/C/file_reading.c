@@ -11,11 +11,11 @@ int main(){
 
 
     //file_reading
-    fscanf(fp, "%s\n", r);
+    fscanf(fp, "%s\n", r); //fscanf() reads till it finds a empty space.
     //fscanf(file_pointer, format_specifier, storage_dest.)
     printf("Line 1: %s\n", r);
 
-    fgets(r, sizeof(r), (FILE *)fp);
+    fgets(r, sizeof(r), (FILE *)fp); // fgets() keeps on reading a until it gets a escape char (\n)
     //fgets(storage_dest., bytes_want_to_read, casting_to_file_pointer)
     printf("Line 2: %s\n", r);
 
