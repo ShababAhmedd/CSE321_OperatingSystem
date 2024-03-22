@@ -10,5 +10,11 @@ Shell command to run --> ./"Reference name" <br>
 
 </br>
 
-[OS Theory Rec.](https://youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO&si=eYQrFfZL7nWq1304)
+[OS Theory Rec.](https://youtube.com/playlist?list=PLJW6cU20q-SNCeRTbz3gOO6MMJb5C3tNO&si=eYQrFfZL7nWq1304) 
+<br>
+<br/>
+[[BDH] CSE321: Operating Systems Class Recording [Fall2023]](https://youtube.com/playlist?list=PL4iTVKzFqrcM1xfhC6Q4dgq5WPDre9J1g&si=2JchGP2ReuXq7ris)
+<br>
+<br/>
+[[FLA] CSE321: Operating Systems Class Recording [Fall2023]](https://youtube.com/playlist?list=PL4iTVKzFqrcOYQ_Cu4IIcUgLygzmUvsLG&si=7S5VwhBdzQLW57CV)
 
