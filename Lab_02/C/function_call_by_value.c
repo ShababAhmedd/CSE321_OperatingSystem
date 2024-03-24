@@ -20,7 +20,7 @@ int main(){
 
     swap(a, b); printf("\n");
 
-    printf("Before swap:\n");
+    printf("After swap:\n");
     printf("a:%d\n", a);
     printf("b:%d\n", b);
     return 0;
