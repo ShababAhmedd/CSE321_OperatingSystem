@@ -18,6 +18,6 @@ int main(){
 
 /* %X --> ?
 Addresses are represented with unsigned hexadecimal value.
-So get an accurate value representation, we use %x
+So to get an accurate value representation, we use %x
 which is the format specifier of the unsigned hexadecimal value.
 */
